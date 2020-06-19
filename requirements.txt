@@ -1,0 +1,4 @@
+nltk
+jupyter
+numpy
+matplotlib
